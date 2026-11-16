@@ -1,20 +1,21 @@
 {
   "name": "@averoa/jobs",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "DEPRECATED: re-exports app/Jobs for AveroaJS 1.x. Use the #jobs subpath import in AveroaJS 2.0.",
   "main": "index.js",
   "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/budiherma1/AveroaJobs.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Budi Hermawan",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/budiherma1/AveroaJobs/issues"
   },
-  "homepage": "https://github.com/budiherma1/AveroaJobs#readme"
+  "homepage": "https://github.com/budiherma1/AveroaJobs#readme",
+  "keywords": [
+    "averoajs",
+    "deprecated"
+  ]
 }
