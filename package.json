@@ -1,6 +1,6 @@
 {
   "name": "@averoa/jobs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "DEPRECATED: re-exports app/Jobs for AveroaJS 1.x. Use the #jobs subpath import in AveroaJS 2.0.",
   "main": "index.js",
   "type": "module",
